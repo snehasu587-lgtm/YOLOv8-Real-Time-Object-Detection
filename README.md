@@ -88,6 +88,12 @@ Future Enhancements
 * Support video file processing.
 * Generate object detection reports.
 
+## Project Output
+
+The following screenshot demonstrates the real-time object detection system using YOLOv8 and OpenCV.
+
+![YOLOv8 Object Detection Output](screenshots/detection_output.png)
+
 Author
 
 Developed as part of the Trainlyze Artificial Intelligence Task 2.
